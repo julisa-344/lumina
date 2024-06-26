@@ -1,3 +1,561 @@
 [
-    
+	{
+		"name": "Rubor Sheglam",
+		"category": "Rostro",
+		"sub-category": "Rubor",
+		"brand": "Sheglam",
+		"products": [
+			{
+				"color": "Float on",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sg-float.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Hus Hush",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sg-hush.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Devoted",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sg-devoted.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Birthday Suit",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sh-birthday _suit.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Love cake",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sh-love_cake.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Rose ritual",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sg-rose.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Swipe right",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sh-swip.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Night drive",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sh-drive.jpg",
+				"sale": true,
+				"price": 50
+			}
+		]
+	},
+	{
+		"name": "Iluminador Sheglam",
+		"category":"Rostro",
+		"sub-category": "Iluminador",
+		"brand": "Sheglam",
+		"products": [
+			{
+				"color": "Bellini Brunch",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../iluminador-sh-bellin.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Tea Cake",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../iluminador-sh-tea.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Vanilla frost",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../iluminador-sh-vanilla.webp",
+				"sale": true,
+				"price": 50
+			}
+		]
+	},
+	{
+		"name": "Gloss Sheglam",
+		"category": "Labios",
+		"sub-category": "Gloss",
+		"brand": "Sheglam",
+		"products": [
+			{
+				"color": "Own your shine",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rojo.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "tha`s fierce",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../gloss-sh-fierce.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Rent free",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../gloss-sh-rent_free.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Vibe check",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../gloss-sh-vibe_check",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Main character",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../gloss-sh-main_character.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "It takes guts",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../gloss-sh-take_guts.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Periodt",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../gloss-sh-periodt.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "A bold plan",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../gloss-sh-bold_plan.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Bold type",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../gloss-sh-bold_type.webp",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "High key",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../rubor-sh-high_key.jpg",
+				"sale": true,
+				"price": 50
+			}
+		]
+	},
+	{
+		"name": "Spray fijador sheglam",
+		"brand": "Sheglam",
+		"category": "Rostro",
+		"sub-category": "Fijador",
+		"image": "../spray_fijador-sh-pickle.webp",
+		"descriptio": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+		"price": 60
+	},
+	{
+		"name": "Polvo sheglam 2 en 1",
+		"brand": "Sheglam",
+		"category": "Rostro",
+		"sub-category": "Polvo",
+		"products": [
+			{
+				"color": "Bubblegum",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../polvo-sh-rosa.webp",
+				"sale": false,
+				"price": 80
+			},
+			{
+				"color": "Translucent",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "../polvo-sh-trsluced.jpg",
+				"sale": true,
+				"price": 80
+			}
+		]
+	},
+	{
+		"name": "Labial Sheglam matte",
+		"sub-category": "Labial",
+		"brand": "Sheglam",
+		"products": [
+			{
+				"color": "Take action",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rojo.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Rent Free",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Stronger than ever",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rosa.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Periodt",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "A bold plan",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rosa.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Dare to be",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Big mood",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rosa.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Main character",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Born to stand out",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rosa.jpg",
+				"sale": true,
+				"price": 50
+			}
+		]
+	},
+	{
+		"name": "Lip plumper sheglam",
+		"sub-category": "Labial",
+		"brand": "Sheglam",
+		"products": [
+			{
+				"color": "Makin` Me Blush",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rojo.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "In Bloom",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Stronger than ever",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rosa.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Periodt",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "A bold plan",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rosa.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Dare to be",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Big mood",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rosa.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Main character",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": true,
+				"price": 50
+			},
+			{
+				"color": "Born to stand out",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rosa.jpg",
+				"sale": true,
+				"price": 50
+			}
+		]
+	},
+	{
+		"name": "CORRECTOR ERASER MAYBELLINE",
+		"brand": "Maybelline",
+		"sub-category": "Corrector",
+		"products": [
+			{
+				"color": "Tona 150",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rojo.jpg",
+				"sale": false,
+				"price": 60
+			},
+			{
+				"color": "Translucent",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 60
+			}
+		]
+	},
+	{
+		"name": "DELINEADOR RETRÁCTIL MAYBELLINE",
+		"brand": "Maybelline",
+		"sub-category": "Delineador",
+		"image": "spray.jpg",
+		"descriptio": "( COLOR CAFÉ OSCURO)",
+		"price": 30
+	},
+	{
+		"name": "MINI PALETAS MAYBELLINE",
+		"brand": "Maybelline",
+		"sub-category": "Paletas de sombra",
+		"products": [
+			{
+				"color": "HI-RISE SUNSET",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rojo.jpg",
+				"sale": false,
+				"price": 40
+			},
+			{
+				"color": "GRAMERCI DECADENCE",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 40
+			},
+			{
+				"color": "BLUSHED AVENUE",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 40
+			}
+		]
+	},
+	{
+		"name": "PALETA NUDE MAYBELLINE",
+		"brand": "Maybelline",
+		"category": "Ojos",
+		"sub-category": "Paletas de sombra",
+		"image": "spray.jpg",
+		"descriptio": "( COLOR CAFÉ OSCURO)",
+		"price": 50
+	},
+	{
+		"name": "BRONZER MOIRA",
+		"brand": "Moira",
+		"sub-category": "Bronzer",
+		"products": [
+			{
+				"color": "TONO 01 LIGHT",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rojo.jpg",
+				"sale": false,
+				"price": 70
+			},
+			{
+				"color": "TONO 04 TAN",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 70
+			},
+			{
+				"color": "TONO 02 MEDIUM",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 70
+			},
+			{
+				"color": "TONO 03 MEDIUM TAN",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 70
+			}
+		]
+	},
+	{
+		"name": "DELINEADORES GLITTER MOIRA",
+		"brand": "Moira",
+		"sub-category": "Delineador",
+		"products": [
+			{
+				"color": "09 BLING-BLING",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rojo.jpg",
+				"sale": false,
+				"price": 60
+			},
+			{
+				"color": "10 24K",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 60
+			},
+			{
+				"color": "11 STELLAR",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 60
+			},
+			{
+				"color": "12 ALTER EGO",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 60
+			},
+			{
+				"color": "13 SURREAL",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 60
+			}
+		]
+	},
+	{
+		"name": "LIP OIL MOIRA",
+		"brand": "Moira",
+		"category": "Labios",
+		"sub-category": "Lip oil",
+		"products": [
+			{
+				"color": "TONO 11 SOFT PEACH",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "rojo.jpg",
+				"sale": false,
+				"price": 60
+			},
+			{
+				"color": "TONO 12 ONLY SMOOCHES",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 60
+			},
+			{
+				"color": "TONO 16 STELLARAU NATURAL",
+				"description": "COLOR BLOOM DAYGLOW LIQUID BLUSH SHIMMER FINISH-FLOAT ON",
+				"image": "beige.jpg",
+				"sale": false,
+				"price": 60
+			}
+		]
+	},
+	{
+		"name": "LIP OIL VEGANO MOIRA",
+		"brand": "Moira",
+		"category": "Labios",
+		"sub-category": "Lip oil",
+		"image": "spray.jpg",
+		"descriptio": "008 JUICY RED",
+		"price": 70
+	},
+	{
+		"name": "PALETA DE SOMBRAS MOIRA",
+		"brand": "Moira",
+		"category": "Ojos",
+		"sub-category": "Paletas de sombra",
+		"image": "spray.jpg",
+		"descriptio": "IN FALLIING FOR YOU",
+		"price": 90
+	},
+	{
+		"name": "PALETAS PROFESIONAL MOIRA",
+		"brand": "Moira",
+		"category": "Ojos",
+		"sub-category": "Paletas de sombra",
+		"image": "spray.jpg",
+		"descriptio": "03 GOLDEN TREASURE",
+		"price": 80
+	},
+	{
+		"name": "PLUMIN DELINEADOR MOIRA MICRO TIP",
+		"brand": "Moira",
+		"category": "Ojos",
+		"sub-category": "Delineador",
+		"image": "spray.jpg",
+		"descriptio": "03 GOLDEN TREASURE",
+		"price": 40
+	},
+	{
+		"name": "POLVO ROSA MOIRA",
+		"brand": "Moira",
+		"category": "Rostro",
+		"sub-category": "Polvo",
+		"image": "spray.jpg",
+		"descriptio": "03 GOLDEN TREASURE",
+		"price": 70
+	}
 ]

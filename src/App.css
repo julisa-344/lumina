@@ -1,26 +1,31 @@
-html{
+html {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
-.bg-gradient{
-  background: rgb(241,148,149);
-background: linear-gradient(0deg, rgba(241,148,149,1) 0%, rgba(241,148,149,1) 48%, #D99594 100%);
+
+.bg-gradient {
+  background: rgb(241, 148, 149);
+  background: linear-gradient(0deg, rgba(241, 148, 149, 1) 0%, rgba(241, 148, 149, 1) 48%, #D99594 100%);
 }
+
 #root {
   margin: 0 auto;
   text-align: center;
 }
 
 .logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+  font-size: 28px;
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: beige;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
@@ -29,6 +34,7 @@ background: linear-gradient(0deg, rgba(241,148,149,1) 0%, rgba(241,148,149,1) 48
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
